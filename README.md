@@ -61,16 +61,6 @@ Back navigation
 
 View details like:
 
-Name
-
-Email
-
-Phone
-
-Gender
-
-Company
-
 🛒 3. Products Module
 APIs Used
 
